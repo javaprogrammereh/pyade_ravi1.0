@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TestPiyaderavi</string>
+    <string name="slide_1_title">اپلیکیشن پیاده روی \nرهرو</string>
+    <string name="slide_2_desc">رهرو یک همراه و دوست برای زمان هاییِ که میخواید بزنید به جاده و پیاده روی کنید</string>
+    <string name="slide_1_desc">   </string>
+    <string name="slide_3_desc">رهرو اطلاعات سلامتی و پیمایش شما رو اندازه گیری میکنه و بهتون گزارش های منظم میده</string>
+    <string name="slide_4_desc">ما در رهرو به دنبال ایجاد تجربه ای جدید و ناب در طبیعت گردی و کوهنوردی هستیم</string>
+    <string name="Previous">قبلی</string>
+    <string name="next">بعدی</string>
+    <string name="go">بزن بریم</string>
+    <string name="start">شروع</string>
+    <string name="title_login_sign_up"> با رهرو ماجراجویی\n آغاز می شه... </string>
+    <string name="desc_login_sign_up">برای ادامه باید اکانت داشته باشید </string>
+    <string name="desc_login">برای ادامه اطلاعات اکانت خود را وارد کنید</string>
+    <string name="login"> ورود </string>
+    <string name="sign_up"> ثبت نام</string>
+    <string name="username"> نام کاربری</string>
+    <string name="password"> کلمه ی عبور</string>
+    <string name="remember_me"> مرا به خاطر بسپار</string>
+    <string name="email"> ایمیل</string>
+    <string name="phone_number"> شماره تماس</string>
+    <string name="re_password"> تکرار کلمه ی عبور</string>
+    <string name="desc_sign_up"> برای ادامه ثبت نام کنید</string>
+    <!--    <string name="email"> ایمیل</string>-->
+    <!--    <string name="email"> ایمیل</string>-->
+    <!--    <string name="email"> ایمیل</string>-->
+    <!--    <string name="email"> ایمیل</string>-->
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="slide_descriptions">
+        <item>@string/slide_1_desc</item>
+        <item>@string/slide_2_desc</item>
+        <item>@string/slide_3_desc</item>
+        <item>@string/slide_4_desc</item>
+    </string-array>
+</resources>

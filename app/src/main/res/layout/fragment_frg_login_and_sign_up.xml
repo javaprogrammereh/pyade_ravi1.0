@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layoutDirection="rtl"
+    tools:context=".Frg_login_and_sign_up">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:ignore="UselessParent">
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/slide_title_login_sign_up"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/slide_desc_margin_top"
+            android:paddingRight="@dimen/slide_desc_padding_rl"
+            android:paddingLeft="@dimen/slide_desc_padding_rl"
+            android:textSize="@dimen/slide_title_text_size"
+            android:textColor="@color/black"
+            android:text="@string/title_login_sign_up"
+            android:layout_alignParentRight="true"/>
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/slide_desc_login_sign_up"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/slide_desc_margin_top"
+            android:paddingRight="@dimen/slide_desc_padding_rl"
+            android:paddingLeft="@dimen/slide_desc_padding_rl"
+            android:textSize="@dimen/slide_desc_text_size"
+            android:textColor="@color/black"
+            android:text="@string/desc_login_sign_up"
+            android:layout_below="@id/slide_title_login_sign_up"
+            android:layout_alignParentRight="true"/>
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_login"
+            android:layout_width="@dimen/width_btn_login_sign_up"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/slide_margin"
+            android:text="@string/login"
+            android:textColor="@color/white"
+            android:background="@drawable/shape_btn_login"
+            android:layout_below="@id/slide_desc_login_sign_up"
+            android:layout_centerHorizontal="true"/>
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_sign_up"
+            android:layout_width="@dimen/width_btn_login_sign_up"
+            android:layout_height="wrap_content"
+            android:text="@string/sign_up"
+            android:textColor="@color/white"
+            android:background="@drawable/shape_btn_sign_up"
+            android:layout_below="@id/btn_login"
+            android:layout_centerHorizontal="true"/>
+</RelativeLayout>
+
+
+</FrameLayout>
