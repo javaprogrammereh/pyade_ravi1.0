@@ -67,8 +67,8 @@ public class activity_intro_slider extends AppCompatActivity {
             public void onPageSelected(int position) {
                 // dots
                 showDots(position);
- //**************************************************************
- //**************************************************************
+                //**************************************************************
+                //**************************************************************
                 // first page
 //                if(position == viewPager.getAdapter().getCount() +2) {
 //                    btnPrevious.setVisibility(View.GONE);
@@ -80,11 +80,11 @@ public class activity_intro_slider extends AppCompatActivity {
 
 
                 // last page
-                 if(position == viewPager.getAdapter().getCount() - 1) {
+                if(position == viewPager.getAdapter().getCount() - 1) {
 
                     btnNext.setText(R.string.start);
                 }
-                 else {
+                else {
                     btnPrevious.setVisibility(View.VISIBLE);
                     btnNext.setText(R.string.next);
                 }
@@ -167,7 +167,7 @@ public class activity_intro_slider extends AppCompatActivity {
     public class SliderPagerAdapter extends PagerAdapter {
         String [] slideTitles;
         String [] slideDescriptions;
-//        int [] bgColorIds = {R.color.blue, R.color.blue,
+        //        int [] bgColorIds = {R.color.blue, R.color.blue,
 //                R.color.blue, R.color.blue};
         int [] slideImageIds = {R.drawable.back_go, R.drawable.back_go,
                 R.drawable.back_go, R.drawable.back_go};

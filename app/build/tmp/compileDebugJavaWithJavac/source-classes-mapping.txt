@@ -1,0 +1,24 @@
+com/example/testpiyaderavi/BottomSheetFragment.java
+ com.example.testpiyaderavi.BottomSheetFragment
+com/example/testpiyaderavi/MainActivity.java
+ com.example.testpiyaderavi.MainActivity
+com/example/testpiyaderavi/Login_fragment.java
+ com.example.testpiyaderavi.Login_fragment
+com/example/testpiyaderavi/Sign_up_fragment.java
+ com.example.testpiyaderavi.Sign_up_fragment
+com/example/testpiyaderavi/BuildConfig.java
+ com.example.testpiyaderavi.BuildConfig
+com/example/testpiyaderavi/Start_Login_and_sign_up.java
+ com.example.testpiyaderavi.Start_Login_and_sign_up
+com/example/testpiyaderavi/SliderPrefManager.java
+ com.example.testpiyaderavi.SliderPrefManager
+com/example/testpiyaderavi/font.java
+ com.example.testpiyaderavi.font
+com/example/testpiyaderavi/Frg_login_and_sign_up.java
+ com.example.testpiyaderavi.Frg_login_and_sign_up
+com/example/testpiyaderavi/activity_intro_slider.java
+ com.example.testpiyaderavi.activity_intro_slider
+ com.example.testpiyaderavi.activity_intro_slider$1
+ com.example.testpiyaderavi.activity_intro_slider$2
+ com.example.testpiyaderavi.activity_intro_slider$3
+ com.example.testpiyaderavi.activity_intro_slider$SliderPagerAdapter

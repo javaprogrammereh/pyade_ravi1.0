@@ -1,0 +1,4 @@
+#Tue Jan 05 08:38:30 IRST 2021
+base.0=D\:\\androidproject\\pyade_ravi1.0\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
